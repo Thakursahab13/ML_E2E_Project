@@ -10,3 +10,6 @@ git add .
 
 
 git commit -m "This is my first commit"
+
+# for pulling the changes
+git pull
